@@ -1,2 +1,2 @@
 # Proyecto_Redes
-Scripts para la construcción de redes de expansión mínima
+Script para la construcción de redes de expansión mínima en R
